@@ -3,6 +3,7 @@ PM Poshan Aahar is a dynamic web application built to manage school meal program
 The project features three main panels: Admin, School, and Supplier, each with specific functionalities and permissions.
 
 ##Features
+
 ###`Admin Panel:`
 1. Complete control over all panels.
 2. Add or delete schools and suppliers.
